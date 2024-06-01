@@ -3,8 +3,7 @@
 int grade1 = Convert.ToInt32(Console.ReadLine());
 int grade2 = Convert.ToInt32(Console.ReadLine());
 int grade3 = Convert.ToInt32(Console.ReadLine());
-
-    int grade4 = Convert.ToInt32(Console.ReadLine());
+int grade4 = Convert.ToInt32(Console.ReadLine());
 int grade5 = Convert.ToInt32(Console.ReadLine());
 
 int average = (grade1 + grade2 + grade3 + grade4 + grade5) / 5;

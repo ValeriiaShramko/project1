@@ -1,0 +1,15 @@
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/bin/Debug/net8.0/HomeWork4
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/bin/Debug/net8.0/HomeWork4.deps.json
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/bin/Debug/net8.0/HomeWork4.runtimeconfig.json
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/bin/Debug/net8.0/HomeWork4.dll
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/bin/Debug/net8.0/HomeWork4.pdb
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/obj/Debug/net8.0/HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/obj/Debug/net8.0/HomeWork4.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/obj/Debug/net8.0/HomeWork4.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/obj/Debug/net8.0/HomeWork4.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/obj/Debug/net8.0/HomeWork4.sourcelink.json
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/obj/Debug/net8.0/HomeWork4.dll
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/obj/Debug/net8.0/refint/HomeWork4.dll
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/obj/Debug/net8.0/HomeWork4.pdb
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/obj/Debug/net8.0/HomeWork4.genruntimeconfig.cache
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork4/obj/Debug/net8.0/ref/HomeWork4.dll
