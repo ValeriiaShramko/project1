@@ -1,20 +1,23 @@
-﻿<Properties StartupConfiguration="{2407A841-C95E-497C-BCDD-F5C77557CB56}|Default">
-  <MonoDevelop.Ide.ItemProperties.HomeWork4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{4DC06D78-5891-4304-988F-D4A36C860E0B}|Default">
+  <MonoDevelop.Ide.ItemProperties.HomeWork4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HomeWork5 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.HomeWork2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWork3/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWork4/Program.cs">
     <Files>
-      <File FileName="HomeWork2/Program.cs" Line="1" Column="1" />
-      <File FileName="HomeWork3/Program.cs" Line="6" Column="1" />
+      <File FileName="HomeWork2/Program.cs" />
+      <File FileName="HomeWork3/Program.cs" />
+      <File FileName="HomeWork4/Program.cs" Line="62" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DotNetBasicLessons" expanded="True">
             <Node name="HomeWork2" expanded="True" />
-            <Node name="HomeWork3" expanded="True">
+            <Node name="HomeWork3" expanded="True" />
+            <Node name="HomeWork4" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
