@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{4DC06D78-5891-4304-988F-D4A36C860E0B}|Default">
-  <MonoDevelop.Ide.ItemProperties.HomeWork4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.HomeWork5 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.HomeWork2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWork4/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.HomeWork4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HomeWork5 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HomeWork7 FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HomeWork6 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWork5/Program.cs">
     <Files>
       <File FileName="HomeWork2/Program.cs" />
       <File FileName="HomeWork3/Program.cs" />
-      <File FileName="HomeWork4/Program.cs" Line="62" Column="10" />
+      <File FileName="HomeWork4/Program.cs" />
+      <File FileName="HomeWork5/Program.cs" Line="207" Column="2" />
+      <File FileName="HomeWork6/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,9 +20,11 @@
           <Node name="DotNetBasicLessons" expanded="True">
             <Node name="HomeWork2" expanded="True" />
             <Node name="HomeWork3" expanded="True" />
-            <Node name="HomeWork4" expanded="True">
+            <Node name="HomeWork4" expanded="True" />
+            <Node name="HomeWork5" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="HomeWork6" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -27,4 +32,5 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.HomeWork3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
