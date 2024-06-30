@@ -1,0 +1,15 @@
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/bin/Debug/net8.0/HomeWork9Collection
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/bin/Debug/net8.0/HomeWork9Collection.deps.json
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/bin/Debug/net8.0/HomeWork9Collection.runtimeconfig.json
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/bin/Debug/net8.0/HomeWork9Collection.dll
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/bin/Debug/net8.0/HomeWork9Collection.pdb
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/obj/Debug/net8.0/HomeWork9Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/obj/Debug/net8.0/HomeWork9Collection.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/obj/Debug/net8.0/HomeWork9Collection.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/obj/Debug/net8.0/HomeWork9Collection.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/obj/Debug/net8.0/HomeWork9Collection.sourcelink.json
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/obj/Debug/net8.0/HomeWork9Collection.dll
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/obj/Debug/net8.0/refint/HomeWork9Collection.dll
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/obj/Debug/net8.0/HomeWork9Collection.pdb
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/obj/Debug/net8.0/HomeWork9Collection.genruntimeconfig.cache
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork9Collection/obj/Debug/net8.0/ref/HomeWork9Collection.dll
