@@ -1,0 +1,15 @@
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/bin/Debug/net8.0/HomeWork8Sort
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/bin/Debug/net8.0/HomeWork8Sort.deps.json
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/bin/Debug/net8.0/HomeWork8Sort.runtimeconfig.json
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/bin/Debug/net8.0/HomeWork8Sort.dll
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/bin/Debug/net8.0/HomeWork8Sort.pdb
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/obj/Debug/net8.0/HomeWork8Sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/obj/Debug/net8.0/HomeWork8Sort.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/obj/Debug/net8.0/HomeWork8Sort.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/obj/Debug/net8.0/HomeWork8Sort.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/obj/Debug/net8.0/HomeWork8Sort.sourcelink.json
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/obj/Debug/net8.0/HomeWork8Sort.dll
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/obj/Debug/net8.0/refint/HomeWork8Sort.dll
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/obj/Debug/net8.0/HomeWork8Sort.pdb
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/obj/Debug/net8.0/HomeWork8Sort.genruntimeconfig.cache
+/Users/admin/Documents/GitHub/project1/DotNetBasicLessons/HomeWork8Sort/obj/Debug/net8.0/ref/HomeWork8Sort.dll
