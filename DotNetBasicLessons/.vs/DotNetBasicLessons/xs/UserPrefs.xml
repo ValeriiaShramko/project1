@@ -1,12 +1,10 @@
 ﻿<Properties StartupConfiguration="{65028410-8F9A-4BDA-81FF-AAA0A2B90344}|Default">
-  <MonoDevelop.Ide.ItemProperties.HomeWork9Collection PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.HomeWork4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.HomeWork2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HomeWork8Sort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HomeWork7 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HomeWork10RegularExpressions FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HomeWork3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.HomeWork6 FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.HomeWork5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWork8Sort/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWork9Collection/Program.cs">
     <Files>
       <File FileName="HomeWork2/Program.cs" />
       <File FileName="HomeWork3/Program.cs" />
@@ -15,6 +13,7 @@
       <File FileName="HomeWork6/Program.cs" />
       <File FileName="HomeWork7/Program.cs" />
       <File FileName="HomeWork8Sort/Program.cs" Line="149" Column="1" />
+      <File FileName="HomeWork9Collection/Program.cs" Line="59" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -26,17 +25,19 @@
             <Node name="HomeWork5" expanded="True" />
             <Node name="HomeWork6" expanded="True" />
             <Node name="HomeWork7" expanded="True" />
-            <Node name="HomeWork8Sort" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="HomeWork8Sort" expanded="True" />
+            <Node name="HomeWork9Collection" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.HomeWork3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HomeWork4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HomeWork2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.HomeWork8Sort PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.HomeWork7 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HomeWork9Collection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HomeWork5 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
